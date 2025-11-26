@@ -127,3 +127,202 @@ input {
 .sdfsdfs {
     margin-top: 40px;
 }
+@media (max-width: 1920px){
+    .containerrr{
+        margin-left: -200px;
+    }
+}
+
+@media (max-width: 1820px) {
+    .logo {
+        margin-right: 160px;
+    }
+}
+@media (max-width: 1720px) {
+    .logo {
+        margin-right: 160px;
+    }
+}
+@media (max-width: 1620px) {
+    .logo {
+        margin-right: 160px;
+    }
+}
+@media (max-width: 1520px) {
+    .logo {
+        margin-right: 160px;
+    }
+}
+@media (max-width: 1420px) {
+    .logo {
+        margin-right: 160px;
+    }
+}
+
+@media (max-width: 1320px){
+    .containerrr{
+        margin-left: -200px;
+    }
+      .logo {
+        margin-right: 160px;
+    }
+    
+    .zagol{
+        font-size: 60px;
+    }
+}
+@media (max-width: 1220px) {
+    .logo {
+        margin-right: 160px;
+    }
+}
+
+@media (max-width: 1120px){
+    .containerrr{
+        margin-left: -200px;
+    }
+    .logo {
+        margin-right: 80px;
+    }
+    
+    .zagol{
+        font-size: 50px;
+    }
+
+    .small-text{
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 1020px) {
+    .logo {
+        margin-right: 70px;
+    }
+}
+@media (max-width: 920px){
+    .containerrr{
+        margin-left: -300px;
+    }
+    
+    .zagol{
+        font-size: 40px;
+        width: 900px;
+        padding: 0px;
+        margin-top: 90px;
+        margin-left: 360px;
+    }
+
+    .small-text{
+        font-size: 15px;
+    }
+     .header {
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 820px) {
+    .header {
+        justify-content: space-between;
+        gap: 10px;
+    }
+
+}
+@media (max-width: 720px) {
+    .header {
+        justify-content: space-between;
+        gap: 10px;
+        font-size: 16px;
+    }
+    .logo {
+        width: 100px;
+    }
+}
+@media (max-width: 620px){
+    .containerrr{
+        margin-left: -300px;
+    }
+    
+    .zagol{
+        font-size: 40px;
+        width: 900px;
+        padding: 0px;
+        margin-top: 90px;
+        margin-left: 360px;
+    }
+
+    .small-text{
+        font-size: 15px;
+    }
+    .header {
+        justify-content: space-between;
+    }
+
+    .btn{
+        margin-left: 400px;
+    }
+}
+
+@media (max-width: 520px) {
+    .logo {
+        margin-right: 0px;
+    }
+}
+@media (max-width: 420px){
+    .containerrr{
+        margin-left: -300px;
+    }
+    
+    .zagol{
+        font-size: 45px;
+        font-weight: 500;
+        width: 900px;
+        padding: 0px;
+        margin-top: 90px;
+        margin-left: 360px;
+    }
+
+    .small-text{
+        font-size: 15px;
+        text-align: center;
+        margin-left: 325px;
+    }
+
+    .btn{
+        margin-left: 350px;
+    }
+      .logo {
+        margin-right: 0px;
+        width: 70px;
+    }
+}
+
+@media (max-width: 320px){
+    .containerrr{
+        margin-left: -300px;
+    }
+    
+    .zagol{
+        font-size: 35px;
+        font-weight: 500;
+        width: 900px;
+        padding: 0px;
+        margin-top: 90px;
+        margin-left: 340px;
+    }
+
+    .small-text{
+        font-size: 15px;
+        text-align: center;
+        margin-left: 325px;
+    }
+
+    .btn{
+        margin-left: 325px;
+    }
+      .logo {
+        margin-right: 0px;
+    }
+    .header {
+        font-size: 10px;
+    }
+}
