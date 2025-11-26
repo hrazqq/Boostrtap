@@ -1,0 +1,129 @@
+*,
+::after,
+::before {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.card-flex {
+    gap: 24px;
+    justify-content: center;
+    text-align: center;
+}   
+.containerrrrrrr h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.containerrrrrrr {
+    margin-top: 100px;
+}
+.card-but {
+    background-color: black;
+    border: 0;
+    color: white;
+    height: 54px;
+}
+.card {
+    border: 0px;
+    width: 384px;
+}
+.containerrr{
+    margin-left: 5px;
+}
+
+.row{
+    width: 100%;
+}
+
+.zagol{
+    font-size: 80px;
+    padding-left: 360px;
+    padding-top: 104px;
+}
+
+.small-text{
+    margin-left: 350px;
+    margin-top: 41px;
+}
+
+.small-text p{
+    font-size: 16px;
+    width: 502px;
+    height: 126px;
+}
+
+.btn{
+    background-color: #030305;
+    width: 334px;
+    height: 64px;
+    font-size: 16px;
+    color: white;
+    border-radius: 0px;
+    margin-left: 360px;
+    margin-top: 40px;
+}
+.flex {
+    gap: 20px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    gap: 115px;
+}
+.header-li {
+    color: black;
+    text-decoration: none;
+}
+.logo {
+    width: 113px;
+    margin-right: 244px;
+}
+.footer {
+        display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #E5E5E5;
+}
+.yznat {
+    font-size: 60px;
+}
+
+.zapolnt {
+    font-size: 16px;
+    margin-top: 50px
+}
+
+.formsss {
+    gap: 57px;
+}
+
+.carsform {
+    display: flex;
+}
+
+.formask {
+    gap: 20px;
+}
+input {
+    width: 100%;
+    width: 344px;
+    height: 65px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+}
+.button {
+    width: 100%;
+    width: 344px;
+    height: 65px;
+    margin-bottom: 15px;
+    background-color: black;
+    color: white;
+    border: 0px;
+}
+
+.rolls {
+    margin-top: -50px;
+}
+.sdfsdfs {
+    margin-top: 40px;
+}
